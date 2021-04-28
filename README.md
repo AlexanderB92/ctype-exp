@@ -33,6 +33,6 @@ Whichever way you choose; instructions on how to run/use the application is much
 - You do not need to create any kind of frontend application for this task
 
 ## Resource
-The concepts of a feature toggle can be viewed here:
-https://martinfowler.com/articles/feature-toggles.html
+The concepts of a feature toggle can be viewed here:  
+https://martinfowler.com/articles/feature-toggles.html  
 https://en.wikipedia.org/wiki/Feature_toggle

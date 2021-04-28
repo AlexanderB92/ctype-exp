@@ -31,3 +31,8 @@ Whichever way you choose; instructions on how to run/use the application is much
 - The Deployment step is also evaluated and can be priortized over some of the requirements if needed.
 - You do not have to priortize implementing any kind of user authorization or login functionality
 - You do not need to create any kind of frontend application for this task
+
+## Resource
+The concepts of a feature toggle can be viewed here:
+https://martinfowler.com/articles/feature-toggles.html
+https://en.wikipedia.org/wiki/Feature_toggle

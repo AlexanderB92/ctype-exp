@@ -12,14 +12,14 @@ if needed.
 
 With the language and tools of your choice; develop a prototype application that partially or fully encapsulates the features below:
 
-- Develop an external facing API with 1-3 simple features
+**1. Develop an external facing API with 1-3 simple features**
   - These can be whatever you want, but they key is to make them simple. Something like an adder, counter etc.
 
-- Develop an internal (admin) API that can be called by an 'admin' to create Feature Toggles
+**2. Develop an internal (admin) API that can be called by an 'admin' to create Feature Toggles**
   - You should be able to create and delete feature toggles
   - The toggles should reliably enable/disable any of the features you created earlier
   
-- Develop a way for an 'admin' to see which Feature Toggles exist and their status
+**3. Develop a way for an 'admin' to see which Feature Toggles exist and their status**
 
 
 ## Deploying the application

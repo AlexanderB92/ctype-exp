@@ -24,7 +24,7 @@ With the language and tools of your choice; develop a prototype application that
 
 ## Deploying the application
 
-It's up to you how you want to demonstrate the application (standalone or on a server), but it's a great way to show off knowledge this particular part of development.
+It's up to you how you want to demonstrate the application (standalone or on a server), but it's a great way to show off knowledge of this particular part of development.
 Whichever way you choose; instructions on how to run/use the application is much appreciated!
 
 ## Notes

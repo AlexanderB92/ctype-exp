@@ -13,11 +13,11 @@ if needed.
 With the language and tools of your choice; develop a prototype application that partially or fully encapsulates the features below:
 
 **1. Firstly, the team needs a prototype API, that can be used to demonstrate the Feature Toggle functionality**
-  - An **Employee** wants to be able to store information about invoices (for the prototype; an ID, customer name and $ amount)
+  - An **Employee** wants to be able to store information about invoices (for the prototype, the following data will suffice; an ID, customer name and $ amount)
   - An **Employee** wants to be able to update the $ amount of an invoice
   - An **Employee** wants to be able to get the total $ amount for a given customer
 
-(Note: The API is mainly for demonstrating the Feature Toggle capability, and you the above user stories are not requirements, but inspiration)
+(Note: If you already have a similar project, feel free to use that as foundation for demonstrating the feature toggle capability - If so, please remember to make it clear which functionality is new, as older projects will not be reviewed)
 
 
 **2. John is one of the administrators, and he wants an API that can be used to manage Feature Toggles**

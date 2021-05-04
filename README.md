@@ -25,11 +25,14 @@ With the language and tools of your choice; develop a prototype application that
   - The **admin** wants the toggles to reliably enable/disable any of the features you created earlier
   - The **admin** needs a way to see which Feature Toggles exist and their status
 
-**4. The hypothetical client has several features, that are only being used part of the week/month/year, and would like a way to be able to schedule Feature Toggles.
+**4. The hypothetical client has several features, that are only being used part of the week/month/year, and would like a way to be able to schedule Feature Toggles.**
 
 
 ## Deploying the application
 As mentioned the client is running a large monolithic system, and would like to explore cloud and microservices architecture. As such, it would be a huge plus if the prototype could incorporate some of these elements.
+
+## Time estimation
+This assignment is set to take between 4-8 hours.
 
 ## Notes
 - The Deployment step is also evaluated and can be priortized over some of the requirements if needed.

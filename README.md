@@ -3,23 +3,26 @@
 ## Description
 
 Imagine the following: a large hypothetical system is suffering from a lot of bugs. As such a need as arisen to be able to disable some features on the platform.
-Your team has chosen you to create a rapid prototype API for enabling and disabling features at runtime. Below are requirements for the prototype.
-Feel free to alter the requirements, as they mainly serve as inspiration - the Deployment step is also evaluated and can be priortized over some of the requirements
+Your team has chosen you to create a rapid prototype API for enabling and disabling features at runtime. Below are user stories for the prototype.
+Feel free to alter the user stories, as they mainly serve as inspiration - the Deployment step is also evaluated and can be priortized over some of the requirements
 if needed.
 
-## Requirements
+## User Stories
 
 
 With the language and tools of your choice; develop a prototype application that partially or fully encapsulates the features below:
 
-**1. Develop an external facing API with 1-3 simple features**
-  - These can be whatever you want, but they key is to make them simple. Something like an adder, counter etc.
+**1. Firstly, the team needs a prototype API, that can be used to demonstrate the Feature Toggle functionality**
+  - Alice would love a feature to send messages/email
+  - Bob wants a feature to create a 
 
-**2. Develop an internal (admin) API that can be called by an 'admin' to create Feature Toggles**
-  - You should be able to create and delete feature toggles
-  - The toggles should reliably enable/disable any of the features you created earlier
+**2. John is one of the administrators, and he wants an API that can be used to manage Feature Toggles**
+  - John wants to be able to create and remove feature toggles
+  - John wants the toggles to reliably enable/disable any of the features you created earlier
   
-**3. Develop a way for an 'admin' to see which Feature Toggles exist and their status**
+**3. John is one of the administrators working on the system, and he needs a way to see which Feature Toggles exist and their status**
+
+**4. The hypothetical client has several features, that are only being used part of the week/month/year, and would like a way to be able to schedule Feature Toggles.
 
 
 ## Deploying the application

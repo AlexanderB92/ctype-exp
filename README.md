@@ -13,22 +13,23 @@ if needed.
 With the language and tools of your choice; develop a prototype application that partially or fully encapsulates the features below:
 
 **1. Firstly, the team needs a prototype API, that can be used to demonstrate the Feature Toggle functionality**
-  - Alice would love a feature to send messages/email
-  - Bob wants a feature to create a 
+  - An **Employee** wants to be able to store information about invoices (for the prototype; an ID, customer name and $ amount)
+  - An **Employee** wants to be able to update the $ amount of an invoice
+  - An **Employee** wants to be able to get the total $ amount for a given customer
+
+(Note: The API is mainly for demonstrating the Feature Toggle capability, and you the above user stories are not requirements, but inspiration)
+
 
 **2. John is one of the administrators, and he wants an API that can be used to manage Feature Toggles**
-  - John wants to be able to create and remove feature toggles
-  - John wants the toggles to reliably enable/disable any of the features you created earlier
-  
-**3. John is one of the administrators working on the system, and he needs a way to see which Feature Toggles exist and their status**
+  - The **admin** wants to be able to create and remove feature toggles
+  - The **admin** wants the toggles to reliably enable/disable any of the features you created earlier
+  - The **admin** needs a way to see which Feature Toggles exist and their status
 
 **4. The hypothetical client has several features, that are only being used part of the week/month/year, and would like a way to be able to schedule Feature Toggles.
 
 
 ## Deploying the application
-
-It's up to you how you want to demonstrate the application (standalone or on a server), but it's a great way to show off knowledge of this particular part of development.
-Whichever way you choose; instructions on how to run/use the application is much appreciated!
+As mentioned the client is running a large monolithic system, and would like to explore cloud and microservices architecture. As such, it would be a huge plus if the prototype could incorporate some of these elements.
 
 ## Notes
 - The Deployment step is also evaluated and can be priortized over some of the requirements if needed.
